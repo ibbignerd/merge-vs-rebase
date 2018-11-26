@@ -2,7 +2,7 @@
 
 // Initial code
 myFunction(){
-	console.log("you're awesome");
+	console.log("This is the first one");
 }
 
 mySecondFunction(){
