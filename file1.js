@@ -1,3 +1,5 @@
+// REBASE MERGE WITH -no-ff
+
 // Initial code
 myFunction(){
 	console.log("you're awesome");
